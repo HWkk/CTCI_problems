@@ -5,8 +5,7 @@ import java.util.HashMap;
 /**
  * 判断一个字符串的所有字符是否全都不同，题目要求使用与不使用额外的数据结构各实现一次。
  */
-public class isUniqueChars {
-
+public class IsUniqueChars {
 
     /**
      * 最初想法，把每个字符放在map中统计
