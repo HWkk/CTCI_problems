@@ -7,7 +7,7 @@
   2. 写一个**封装类**将基础类型如int，float等封装起来，然后传入方法中，在方法中更改封装类中的值即可。
   3. 将必要的值返回，其他值输出，面试官允许的情况下可以这么做。
 
-  详情见[FindKthLastElement题目](/FindKthLastElement.java)。
+  详情见[FindKthLastElement题目](/src/Chapter2/FindKthLastElement.java)。
 
 
 
